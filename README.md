@@ -57,18 +57,18 @@ Multiple Flutter core widgets used throughout the app
 ## 📸 App Screenshots
 
 ### Start Screen
-![Start Screen](screenshots/start_screen.png)
+![Start Screen](screenshots/start_screen.png.png)
 
 ### Question Screens
-![Question 1](screenshots/question_screen1.png)
-![Question 2](screenshots/question_screen2.png)
-![Question 3](screenshots/question_screen3.png)
-![Question 4](screenshots/question_screen4.png)
-![Question 5](screenshots/question_screen5.png)
-![Question 6](screenshots/question_screen6.png)
+![Question 1](screenshots/question_screen1.png.png)
+![Question 2](screenshots/question_screen2.png.png)
+![Question 3](screenshots/question_screen3.png.png)
+![Question 4](screenshots/question_screen4.png.png)
+![Question 5](screenshots/question_screen5.png.png)
+![Question 6](screenshots/question_screen6.png.png)
 
 ### Result Screen
-![Result Screen](screenshots/result_screen.png)
+![Result Screen](screenshots/result_screen.png.png)
 
 
 🛠️ Tech Stack
