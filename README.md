@@ -60,12 +60,12 @@ Multiple Flutter core widgets used throughout the app
 ![Start Screen](screenshots/start_screen.png)
 
 ### Question Screens
-![Question 1](screenshots/question_1.png)
-![Question 2](screenshots/question_2.png)
-![Question 3](screenshots/question_3.png)
-![Question 4](screenshots/question_4.png)
-![Question 5](screenshots/question_5.png)
-![Question 6](screenshots/question_6.png)
+![Question 1](screenshots/question_screen1.png)
+![Question 2](screenshots/question_screen2.png)
+![Question 3](screenshots/question_screen3.png)
+![Question 4](screenshots/question_screen4.png)
+![Question 5](screenshots/question_screen5.png)
+![Question 6](screenshots/question_screen6.png)
 
 ### Result Screen
 ![Result Screen](screenshots/result_screen.png)
