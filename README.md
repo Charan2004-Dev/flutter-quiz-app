@@ -68,7 +68,7 @@ Multiple Flutter core widgets used throughout the app
 ![Question 6](screenshots/question_screen6.png.png)
 
 ### Result Screen
-![Result Screen](screenshots/result_screen.png.png)
+![Result Screen](screenshots/results_screen.png.png)
 
 
 🛠️ Tech Stack
